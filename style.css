@@ -336,13 +336,13 @@ img.aligncenter {
 
 #sidebar-bg {
 	float: left;
-	width: 380px;
+	width: 320px;
 }
 
 #sidebar {
 	overflow: hidden;
-	width: 320px;
-	padding: 30px 30px 20px 30px;
+	width: 270px;
+	padding: 30px 10px 20px 30px;
 }
 
 #sidebar ul {
